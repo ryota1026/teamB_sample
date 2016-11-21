@@ -1,1 +1,1 @@
-# teamB_sample
+# teamB_sampleのプロジェクト
